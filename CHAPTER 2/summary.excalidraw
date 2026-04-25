@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "hdBMAYsF3kfkhNbKrc8nQ",
+      "type": "text",
+      "x": 478,
+      "y": 176,
+      "width": 1489.8389892578125,
+      "height": 325,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1800280982,
+      "version": 1387,
+      "versionNonce": 1284106134,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1777137338073,
+      "link": null,
+      "locked": false,
+      "text": "SUMMARY:\n\n1. Distribution:             conjunto de valores y que tan frecuentes aparecen en el dataset.\n2. Frecuency table:        Un mapa de valores y sus frecuencias. \n3. Frequency:               Numero de veces que un valor aparece en una muestra\n4. Skewed:                  Una distribucion esta sesgada si es asimetrica, con cantidades extremas que se extienden mas en una direccion que en otra. \n5. mode:                    Cantidad mas frecuente en una muestra, o una de las cantidades mas frecuentes. \n6. uniform distribution:  una distribucion en la cual todas las cantidades tienen la misma frecuencia. \n7. outlier:                  una cantidad extrema en una distribucion. \n8. Standarized:           una estadistica esta estandarizada si se expresa en terminos que son comparables a traves de diferentes datasets y dominios. \n9. Pooled standar deviation: una estadistica que combiana data de dos o mas grupos para calcular desviacion estandar comun. \n10. Cohen's effect size: una estadistica estandarizada que cuantifica la diferencia en medias de dos grupos. \n11. Practically significant: un efecto es practicamente significativo si es lo suficientemente grande para que importe en la practica. ",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "SUMMARY:\n\n1. Distribution:             conjunto de valores y que tan frecuentes aparecen en el dataset.\n2. Frecuency table:        Un mapa de valores y sus frecuencias. \n3. Frequency:               Numero de veces que un valor aparece en una muestra\n4. Skewed:                  Una distribucion esta sesgada si es asimetrica, con cantidades extremas que se extienden mas en una direccion que en otra. \n5. mode:                    Cantidad mas frecuente en una muestra, o una de las cantidades mas frecuentes. \n6. uniform distribution:  una distribucion en la cual todas las cantidades tienen la misma frecuencia. \n7. outlier:                  una cantidad extrema en una distribucion. \n8. Standarized:           una estadistica esta estandarizada si se expresa en terminos que son comparables a traves de diferentes datasets y dominios. \n9. Pooled standar deviation: una estadistica que combiana data de dos o mas grupos para calcular desviacion estandar comun. \n10. Cohen's effect size: una estadistica estandarizada que cuantifica la diferencia en medias de dos grupos. \n11. Practically significant: un efecto es practicamente significativo si es lo suficientemente grande para que importe en la practica. ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
